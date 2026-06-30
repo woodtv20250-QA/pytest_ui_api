@@ -454,7 +454,6 @@ pyrightconfig.json
 *testsdir
 *testsfile
 * testsfiles
-*test
 * testdir
 * testfile
 * testfiles
@@ -528,3 +527,5 @@ __pycache__/
 *.log
 *.db
 .DS_Store
+page/AuthPage2.py
+conf.ini

@@ -1,0 +1,8 @@
+[ui]
+base_url = https://www.kinopoisk.ru/
+auth_url = https://passport.yandex.ru/auth
+
+[credentials]
+# Заполните своими данными
+email = your_email@example.com
+password = your_password
